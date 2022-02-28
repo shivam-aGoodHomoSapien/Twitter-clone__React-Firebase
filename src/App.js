@@ -5,6 +5,12 @@ function App() {
     // BEM
     <div className="app">
       
+      {/* Sidebar */}
+
+      {/* Feed */}
+
+      {/* Widgets */}
+
     </div>
   );
 }
