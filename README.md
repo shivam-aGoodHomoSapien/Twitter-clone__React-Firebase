@@ -6,3 +6,5 @@ Designed using :
 - ReactJs
 - Firebase
 
+Project is in development phase & will be hosted soon.
+
